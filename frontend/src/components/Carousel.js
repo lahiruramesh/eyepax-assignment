@@ -1,9 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './Carousel.css';
 import { CarosuelItem } from './CarouselItem';
-import img1 from '../images/img_lights_wide.jpeg';
-import img2 from '../images/img_nature_wide.jpeg';
-import img3 from '../images/img_snow_wide.jpeg';
 
 export default function Carousel({size , infinite}) {
 
