@@ -7,6 +7,10 @@ cd backend
 npm install
 npm start
 
+```
+### Back end
+
+```
 
 cd frontend
 npm install
