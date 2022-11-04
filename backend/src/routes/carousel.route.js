@@ -4,7 +4,7 @@ const CarouselController = require('../controllers/carousel.controller');
  
 const carsouselRouter = express.Router();
 
-carsouselRouter.get('/s', CarouselController.insertCarousel);
+carsouselRouter.post('/', CarouselController.insertCarousel);
 carsouselRouter.get('/',CarouselController.getCarousel);
 
 module.exports = carsouselRouter;
