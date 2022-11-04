@@ -1,6 +1,6 @@
 ## How to setup 
 
-### Back end
+### Back-end
 
 ```
 cd backend
@@ -8,7 +8,7 @@ npm install
 npm start
 
 ```
-### Back end
+### Front-end
 
 ```
 
